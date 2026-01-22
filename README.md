@@ -32,14 +32,14 @@
 **Indigenous soil knowledge is disappearing** at an alarming rate. Each time an elder farmer passes away, **centuries of traditional wisdom** about soil, crops, and climate adaptation is lost forever.
 
 ### **Key Challenges:**
-1. 📉 **Vanishing Knowledge:** Elder farmers' expertise isn't documented systematically
-2. 🌡️ **Climate Change:** Traditional methods need adaptation to new conditions  
-3. 🔍 **Fragmented Data:** Soil images, sensor readings, and traditional wisdom exist in isolation
-4. 🧠 **No Collective Memory:** Successful farming practices aren't remembered and reinforced
+1. **Vanishing Knowledge:** Elder farmers' expertise isn't documented systematically
+2.  **Climate Change:** Traditional methods need adaptation to new conditions  
+3.  **Fragmented Data:** Soil images, sensor readings, and traditional wisdom exist in isolation
+4.  **No Collective Memory:** Successful farming practices aren't remembered and reinforced
 
 ---
 
-## 💡 **Our Solution**
+##  **Our Solution**
 
 **Bhu-Smruti** (भू-स्मृति - "Earth Memory") is an **AI-powered memory system** that preserves indigenous soil knowledge and provides intelligent recommendations to farmers.
 
